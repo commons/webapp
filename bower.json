@@ -1,0 +1,9 @@
+{
+	"name": "common.webapp",
+	"version": "0.1.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/commons/webapp.git"
+	},
+	"dependencies": {}
+}
